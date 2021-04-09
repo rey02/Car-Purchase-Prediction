@@ -2,7 +2,9 @@
 <p align=center><img src="Car AI.jpg" width="900" height="600"</p>
 <body>Thios is a Car Purchase prediction project using Artificial Neural Network based on Customer Data. 
  The relevent features based on the customer data that are considered to predict the price of the Car 
- which a Customer can buy are : 
+  which a Customer can buy are : </body>
+  
+  <body>
  
     Customer Name
     Customer e-mail
