@@ -6,8 +6,6 @@
   
   <body>
  
-    Customer Name
-    Customer e-mail
     Country
     Gender
     Age
@@ -15,7 +13,7 @@
     Credit Card Debt
     Net Worth(Property)
 
-The model should predict:
+The model will predict:
 
     Car Purchase Amount
 </body>
